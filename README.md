@@ -73,4 +73,5 @@ Per eseguire i test e generare un report:
 + Apri `index.html` nella directory `target` per visualizzare i report dettagliati dei test, inclusa la copertura delle branch.
 
 ### Altro
-Per ulteriori informazioni dettagliate, puoi consultare la documentazione del progetto: [FindYourPlace ProjectDocs](https://github.com/FireLion137/FindYourPlace_IS/tree/main/projectDocs/Prodotto)
+Per ulteriori informazioni dettagliate, puoi consultare la documentazione del progetto: [FindYourPlace ProjectDocs](https://github.com/FireLion137/FindYourPlace_IS/tree/main/projectDocs/Prodotto)<br>
+Per visualizzare i Reports generati automaticamente da Maven, puoi cliccare [QUI!](https://pietro1377.github.io/FindYourPlace_IS/project-reports.html)<br>
