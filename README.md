@@ -1,9 +1,9 @@
 # FindYourPlace
 <p align="center">
-  <img width="200" src="https://github.com/Pietro1377/FindYourPlace_IS/assets/145977055/58143a00-a556-4cd0-9471-35ebb1a24edd">
+  <img width="200" src="https://github.com/AlessandroNacchia/FindYourPlace_IS/assets/173490402/b6a78cf4-cb91-4622-8ee8-ad3d90834d0a">
 </p>
 Repository per il progetto FindYourPlace per l'esame di Ingegneria del Software <br>(Corso di Informatica - UniSA)<br><br>
-Per visualizzare il lavoro dedicato alla creazione del modulo di IA, <a href="https://github.com/Pietro1377/FindYourPlace_FIA">clicca qui!</a>
+Per visualizzare il lavoro dedicato alla creazione del modulo di IA, <a href="https://github.com/AlessandroNacchia/FindYourPlace_FIA">clicca qui!</a>
 
 # Autori
 + Pietro Esposito - p.esposito62@studenti.unisa.it
@@ -73,5 +73,5 @@ Per eseguire i test e generare un report:
 + Apri `index.html` nella directory `target` per visualizzare i report dettagliati dei test, inclusa la copertura delle branch.
 
 ### Altro
-Per ulteriori informazioni dettagliate, puoi consultare la documentazione del progetto: [FindYourPlace ProjectDocs](https://github.com/FireLion137/FindYourPlace_IS/tree/main/projectDocs/Prodotto)<br>
-Per visualizzare i Reports generati automaticamente da Maven, puoi cliccare [QUI!](https://pietro1377.github.io/FindYourPlace_IS/project-reports.html)<br>
+Per ulteriori informazioni dettagliate, puoi consultare la documentazione del progetto: [FindYourPlace ProjectDocs](https://github.com/AlessandroNacchia/FindYourPlace_IS/tree/main/projectDocs/Prodotto)<br>
+Per visualizzare i Reports generati automaticamente da Maven, puoi cliccare [QUI!](https://alessandronacchia.github.io/FindYourPlace_IS/project-reports.html)<br>
